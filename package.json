@@ -1,0 +1,11 @@
+{
+  "name": "bagguard-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "BagGuard AI - Multi-Laptop Airport Baggage Monitoring & Condition Assessment Platform",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "preview": "cd frontend && npm run preview"
+  }
+}
